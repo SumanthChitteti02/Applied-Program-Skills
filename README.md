@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1314-matrix-block-sum) |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
