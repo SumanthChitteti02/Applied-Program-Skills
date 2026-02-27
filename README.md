@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
 | [1314-matrix-block-sum](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1408-string-matching-in-an-array) |
 ## Matrix
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1408-string-matching-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
