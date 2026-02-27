@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -90,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
