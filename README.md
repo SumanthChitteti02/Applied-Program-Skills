@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
