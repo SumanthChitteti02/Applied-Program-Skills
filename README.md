@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -144,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
