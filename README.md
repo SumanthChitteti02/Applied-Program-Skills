@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0283-move-zeroes) |
+| [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
 ## Two Pointers
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
