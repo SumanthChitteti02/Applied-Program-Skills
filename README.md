@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0867-transpose-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
