@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0459-repeated-substring-pattern) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
