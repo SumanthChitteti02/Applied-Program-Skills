@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1314-matrix-block-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
