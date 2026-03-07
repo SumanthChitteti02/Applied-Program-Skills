@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0160-intersection-of-two-linked-lists) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
