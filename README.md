@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
