@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0690-employee-importance) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1002-find-common-characters) |
 ## Sliding Window
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0690-employee-importance](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0690-employee-importance](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0690-employee-importance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0101-symmetric-tree) |
+| [0690-employee-importance](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
