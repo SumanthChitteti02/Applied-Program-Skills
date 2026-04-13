@@ -1,8 +1,8 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int[] freq = new int[26];  // frequency of 'a' to 'z'
+        int[] freq = new int[26];
 
-        // Count frequencies
+        // Count frequency
         for (char c : s.toCharArray()) {
             freq[c - 'a']++;
         }
@@ -14,6 +14,6 @@ class Solution {
             }
         }
 
-        return -1; // no unique character
+        return -1;
     }
 }
