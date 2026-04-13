@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
