@@ -8,17 +8,16 @@ class Solution {
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
             } else {
-                // Closing bracket with no opening
                 if (stack.isEmpty()) return false;
 
                 char top = stack.pop();
-
-                if (ch == ')' && top != '(') return false;
-                if (ch == '}' && top != '{') return false;
-                if (ch == ']' && top != '[') return false;
+                if ((ch == ')' && top != '(') ||
+                    (ch == '}' && top != '{') ||
+                    (ch == ']' && top != '[')) {
+                    return false;
+                }
             }
         }
-
         return stack.isEmpty();
     }
 }
