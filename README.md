@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
