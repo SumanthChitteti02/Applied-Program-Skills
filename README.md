@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
+| [1002-find-common-characters](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1002-find-common-characters) |
 | [1314-matrix-block-sum](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
+| [1002-find-common-characters](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1002-find-common-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
+| [1002-find-common-characters](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/1002-find-common-characters) |
 ## Sliding Window
 |  |
 | ------- |
