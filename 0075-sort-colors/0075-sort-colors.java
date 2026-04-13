@@ -4,21 +4,23 @@ class Solution {
 
         while (mid <= high) {
             if (nums[mid] == 0) {
-                // swap nums[low] and nums[mid]
+                // swap low & mid
                 int temp = nums[low];
                 nums[low] = nums[mid];
                 nums[mid] = temp;
-
+                
                 low++;
                 mid++;
-            } else if (nums[mid] == 1) {
+            } 
+            else if (nums[mid] == 1) {
                 mid++;
-            } else { // nums[mid] == 2
-                // swap nums[mid] and nums[high]
+            } 
+            else { // nums[mid] == 2
+                // swap mid & high
                 int temp = nums[mid];
                 nums[mid] = nums[high];
                 nums[high] = temp;
-
+                
                 high--;
             }
         }
