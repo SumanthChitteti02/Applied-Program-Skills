@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0704-binary-search) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0621-task-scheduler) |
 | [0890-find-and-replace-pattern](https://github.com/SumanthChitteti02/Applied-Program-Skills/tree/master/0890-find-and-replace-pattern) |
